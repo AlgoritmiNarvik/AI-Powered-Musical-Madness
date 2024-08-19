@@ -15,7 +15,7 @@
 
 1. **Platform Selection and Testing**
    - **Date:** Completed by August 12, 2024
-   - **Details:** Selected "You Do" as the AI music generation platform after testing various options.
+   - **Details:** Selected Udio as the AI music generation platform after testing various options.
 
 2. **Concept Development**
    - **Date:** Ongoing
@@ -24,7 +24,7 @@
 3. **Song Creation**
    - **Start Date:** August 2024
    - **Completion Date:** September 2024
-   - **Details:** Generate 3-5 songs using the You Do platform and refine them for the EP.
+   - **Details:** Generate 3-5 songs using the Udio platform and refine them for the EP.
 
 4. **Event Preparation**
    - **Date:** September to October 2024
