@@ -22,15 +22,14 @@
    - **Details:** Finalizing song concepts, including themes like "Will I find a job?" and "Object-oriented programming."
 
 3. **Song Creation**
-   - **Start Date:** August 2024
-   - **Completion Date:** September 2024
+   - We got a paid standard subscription for Algoritmi, contact almaz.ermilov@uit.no if you need the access.
    - **Details:** Generate 3-5 songs using the Udio platform and refine them for the EP.
 
-4. **Event Preparation**
+5. **Event Preparation**
    - **Date:** September to October 2024
    - **Details:** Plan the presentation, including live AI-assisted song creation and audience interaction.
 
-5. **Music Distribution**
+6. **Music Distribution**
    - **Start Date:** October 2024
    - **Details:** Distribute the EP on Spotify, YouTube, and Apple Music using RPM or similar services.
 
@@ -39,6 +38,7 @@
 - **Create and subscribe to UDIO's paid version**
   - **Responsible:** Almaz Ermilov
   - **Deadline:** Within the coming week
+  - **Status:** completed
 
 - **Research music distribution processes**
   - **Responsible:** Almaz Ermilov, Peiyi Wu, Andres Aldana
