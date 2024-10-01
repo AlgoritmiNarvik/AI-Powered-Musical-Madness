@@ -326,7 +326,7 @@ Code me, maybe, in your lines I see the way...
 ### Outro:
 In this syntax, we'll grow  
 Let's rewrite the world, you know  
-Code me, maybe, let's go  
+Code me, maybe, let's code  
 
 ## 2. "algorithmic Molly"
 *Style: Moody, driving post-punk with a touch of euphoria*
