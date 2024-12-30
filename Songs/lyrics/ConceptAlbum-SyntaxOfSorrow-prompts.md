@@ -49,3 +49,311 @@ Prompt
 
 Prompt
 “Conclude the album with a bittersweet, reflective techno track woven with post-punk guitars. The protagonist finally acknowledges not all of life can be optimized or debugged perfectly. Let the lyrics gently reference final commits and archiving code, accepting that some errors remain part of the human condition. In a solemn yet hopeful tone, underscore that the protagonist carries forward the lessons learned—Knuth’s logic included—but has realized there’s more to existence than line-by-line perfection.”
+
+
+---
+#Lyrics
+
+TL;DR: Below are the extended lyrics for each track, aligned with the original storyline and style descriptors. They remain somewhat abstract, yet include verse/chorus/bridge structures to capture the journey from code obsession to heartbreak and acceptance.
+
+1. “code me maybe?”
+
+Music Style: Atmospheric Russian Post-Punk, upbeat guitars, dreamy synth layers
+
+Verse 1
+In dusty tomes, I caught a spark
+Knuth’s code whispered from the dark
+Digits glowed like neon signs
+Urging me to cross those lines
+
+Chorus
+Code me, maybe—rewrite my heart
+Infinite loops where the dream can start
+
+Verse 2
+A labyrinth of newfound hope
+Bit by bit, I learn to cope
+Cascading lines, a cosmic door
+Tempting me to search for more
+
+Bridge
+Between the threads, a silent guide
+Knuth’s design, quietly amplified
+I chase these algorithms bright
+Hoping to shed my mortal plight
+
+Chorus
+Code me, maybe—rewrite my heart
+In midnight scripts, let illusions chart
+
+2. “algorithmic Molly”
+
+Music Style: Moody post-punk basslines, euphoric undertones, swirling drum patterns
+
+Verse 1
+With trembling hands, she passed the page
+A secret code for hearts ablaze
+Soft laughter spilled in cosmic hush
+Algorithmic molly, our private rush
+
+Chorus
+We ascend on data’s wings, floating high
+Knuth’s lines promise we can kiss the sky
+
+Verse 2
+In flickering screens, our pulses race
+Two minds enthralled by cryptic grace
+We glimpse the code that shapes the night
+Reality warps under pale moonlight
+
+Bridge
+Take me deeper, let me see
+Behind this hidden circuitry
+Molecules of logic swirl
+Euphoria with code unfurled
+
+Chorus
+We ascend on data’s wings, floating high
+Knuth’s lines promise we can crack the sky
+
+3. “infinite loop of desire”
+
+Music Style: Hypnotic post-punk grooves, repetitive trance-like guitar motifs
+
+Verse 1
+Time dissolves in a silent room
+Where code and longing share the gloom
+I chase a line that leads nowhere
+But still, I crave that logic flare
+
+Chorus
+Endless cycles hold me tight
+An infinite loop sealed day and night
+
+Verse 2
+Variables churn in restless dreams
+Knuth’s symbols carved on fractal screens
+Ever onward, deeper I roam
+Desire compiles, I can’t go home
+
+Bridge
+I iterate a thousand times
+Hoping to solve these riddled rhymes
+But passion’s coil grips my mind
+A loop unbroken, undefined
+
+Chorus
+Endless cycles hold me tight
+Infinite loop, I burn with insight
+
+4. “stack overflow”
+
+Music Style: Chaotic fusion of post-punk and experimental techno, glitchy percussion
+
+Verse 1
+Static pulses crowd my thoughts
+Fragments swirl, each line is fraught
+Libraries tower, frameworks shift
+Knuth’s volumes weigh me, can’t resist
+
+Chorus
+Stack overflow in my sleepless core
+Data drowns me, I crave no more
+
+Verse 2
+Syntax tangles in frantic loops
+Reality slams me through the hoops
+Screens flicker, reason seems to freeze
+I can’t keep pace with these new keys
+
+Bridge
+Error logs stacked high, compressed
+Neurons on fire, soul distressed
+Infinite tasks, I can’t sustain
+I watch my mind revolve in pain
+
+Chorus
+Stack overflow, watch me slip below
+Caught in the swirl, nowhere left to go
+
+5. “the great refactoring”
+
+Music Style: Introspective post-punk, gentle electronic undertones building tension
+
+Verse 1
+Tangled lines across my life
+Messy loops fueling inner strife
+I try to parse each broken thread
+Rewrite the code inside my head
+
+Chorus
+Refactor these feelings, keep them light
+Logic might heal what’s gone awry tonight
+
+Verse 2
+Knuth’s structure in every cell
+Hoping discipline can quell
+Emotional bugs haunting me
+I search for patterns I can’t see
+
+Bridge
+I reorganize my beating heart
+But life resists each perfect chart
+Algorithmic calm I chase
+Yet chaos hides in every space
+
+Chorus
+Refactor these feelings, shining bright
+Still, the unknown refuses to align just right
+
+6. “syntax error”
+
+Music Style: Dark industrial-techno beats, oppressive synth drones
+
+Verse 1
+Null pointers where my hope should be
+Segmentation in my memory
+Ghostly lines that fade from sight
+I can’t compile my will to fight
+
+Chorus
+Syntax error, everything breaks
+No patch for sorrow’s static ache
+
+Verse 2
+Knuth’s logic cracks under strain
+Binary tears blur in the rain
+Runtime meltdown, no control
+All illusions soon take their toll
+
+Bridge
+A lone echo through the void
+All bright functions now destroyed
+Each call returns a silent dread
+Error swirling in my head
+
+Chorus
+Syntax error, system unmade
+In twisted code, my soul’s betrayed
+
+7. “deprecated self”
+
+Music Style: Slow, melancholic techno with looming post-punk undertones
+
+Verse 1
+I see my past in dusty code
+Relics of who I was once told
+Locked in frameworks left behind
+A heritage no one needs to find
+
+Chorus
+Deprecated self, left in the cold
+No updates come for what’s grown old
+
+Verse 2
+Knuth’s old methods guide me still
+Yet time devours each learned skill
+A cycle spins beyond my grasp
+I watch my relevance collapse
+
+Bridge
+Echoing through archived halls
+Ghostly voices, distant calls
+Hope remains, a silent thread
+Though everything else is left unsaid
+
+Chorus
+Deprecated self, left undefined
+Yearning for life I cannot rewind
+
+8. “heartbreak overflow”
+
+Music Style: Intense industrial onslaught, crushing beats, distorted atmospheres
+
+Verse 1
+Shock waves flood my fragile core
+The data tears an open sore
+In frenzied loops I thrash for air
+But heartbreak sears beyond repair
+
+Chorus
+Overflow, meltdown, tears erupt
+Breach of soul that can’t be shut
+
+Verse 2
+Her laughter echoes in the code
+Knuth’s words can’t lighten the load
+I watch our shared illusions burn
+No fix exists, no safe return
+
+Bridge
+Buffers burst, memory bleeds
+All that’s left are haunting needs
+Error logs inscribed with grief
+No patch to grant me sweet relief
+
+Chorus
+Overflow, meltdown, broken trust
+Hearts compile to ashes, dust
+
+9. “the Blue Screen of Death”
+
+Music Style: Slow, pounding industrial-techno dirge with oppressive drones
+
+Verse 1
+Fatal lines cut through the night
+Echoes vanish, drowning light
+She’s gone, a final crash so cold
+Knuth’s math can’t resurrect her soul
+
+Chorus
+Blue Screen of Death, no power to save
+System halts on sorrow’s grave
+
+Verse 2
+Kernel panics freeze my stare
+A blue horizon, bleak and bare
+No lines remain to recompile
+A final hush, a tortured mile
+
+Bridge
+Shut down sequence, heartbreak’s code
+All illusions swiftly implode
+Silent loops hum in the dark
+Hope consumed by error’s mark
+
+Chorus
+Blue Screen of Death, stark and grim
+Fade to zero, all is dim
+
+10. “legacy code”
+
+Music Style: Bittersweet reflective techno, post-punk guitar flourishes
+
+Verse 1
+Lines remain in half-lit glow
+Haunted fragments I still know
+Knuth’s wisdom lingers in dust
+Yet so much can’t be shaped by trust
+
+Chorus
+I’m legacy code, etched in time
+Carrying scars that almost rhyme
+
+Verse 2
+Loops we wrote in ecstasy
+Now archived in broken memory
+Some errors stand the test of day
+Others vanish as I drift away
+
+Bridge
+No perfect patch for hearts or souls
+Acceptance births new protocols
+I press commit, then walk on by
+Leaving illusions where they lie
+
+Chorus
+I’m legacy code, out of design
+Still learning truths beyond the line
+
+These expanded lyrics preserve an abstract flair while offering more structure (verses, chorus, bridges) to capture the emotional trajectory of the protagonist—starting from spark and obsession, culminating in heartbreak, and settling into the realization that neither love nor life can be fully debugged.
